@@ -60,6 +60,10 @@
         <mxCell id="0wGEYT90yQApAStghQaH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0wGEYT90yQApAStghQaH-7" target="ixy0OC89QQ3RY7VuBTIl-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="335" />
+              <mxPoint x="440" y="250" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-7" value="interests" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">

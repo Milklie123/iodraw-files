@@ -94,7 +94,7 @@
           <mxGeometry x="365" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-40" value="categories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="830" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-54" value="cart_items" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="190" width="120" height="60" as="geometry" />

@@ -90,7 +90,7 @@
           <mxGeometry x="280" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-40" value="categories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="695" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-54" value="cart_items" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="190" width="120" height="60" as="geometry" />
@@ -128,6 +128,9 @@
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-71" value="m" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="905" y="248" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0wGEYT90yQApAStghQaH-72" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="915" y="478" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

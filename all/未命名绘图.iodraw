@@ -214,7 +214,7 @@
         <mxCell id="0wGEYT90yQApAStghQaH-97" value="reg_date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="960" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0wGEYT90yQApAStghQaH-98" value="reg_date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0wGEYT90yQApAStghQaH-98" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="910" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-99" value="reg_date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -255,6 +255,9 @@
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-111" value="category_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="610" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0wGEYT90yQApAStghQaH-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.956;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0wGEYT90yQApAStghQaH-111" target="0wGEYT90yQApAStghQaH-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -93,7 +93,10 @@
           <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-54" value="cart_items" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wGEYT90yQApAStghQaH-55" value="orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

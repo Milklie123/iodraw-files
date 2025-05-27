@@ -140,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-73" value="选购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="390" width="80" height="80" as="geometry" />
+          <mxGeometry x="410" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.542;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0wGEYT90yQApAStghQaH-73" target="ixy0OC89QQ3RY7VuBTIl-1">
           <mxGeometry relative="1" as="geometry" />
@@ -209,16 +209,19 @@
           <mxGeometry x="380" y="380" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-97" value="reg_date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="390" width="80" height="50" as="geometry" />
+          <mxGeometry x="790" y="960" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-98" value="reg_date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="80" height="50" as="geometry" />
+          <mxGeometry x="1050" y="910" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-99" value="reg_date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="410" width="80" height="50" as="geometry" />
+          <mxGeometry x="400" y="930" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0wGEYT90yQApAStghQaH-100" value="reg_date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="420" width="80" height="50" as="geometry" />
+          <mxGeometry x="500" y="540" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0wGEYT90yQApAStghQaH-101" value="reg_date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="400" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
